@@ -1,0 +1,154 @@
+private evento: Evento[] = [
+    {
+      "iconoColor": "744B9E",
+      "ubicacion": "PRIMERAS FILAS",
+      "valorTicket": "180.000",
+      "cargoServicio": "27.000",
+      "precio": "207.000"
+    },
+
+
+    {
+      "iconoColor": "00D2FF",
+      "ubicacion": "PLATINUM",
+      "valorTicket": "130.000",
+      "cargoServicio": "19.500",
+      "precio": "149.500"
+    },
+
+
+    {
+      "iconoColor": "F8DB5B",
+      "ubicacion": "BLACK",
+      "valorTicket": "100.000",
+      "cargoServicio": "15.000",
+      "precio": "115.000"
+    },
+
+
+    {
+      "iconoColor": "C3D600",
+      "ubicacion": "GOLD",
+      "valorTicket": "80.000",
+      "cargoServicio": "12.000",
+      "precio": "92.000"
+    },
+
+
+    {
+      "iconoColor": "F58B73",
+      "ubicacion": "PLATEA CORAZÓN BAJA",
+      "valorTicket": "95.000",
+      "cargoServicio": "14.250",
+      "precio": "109.250"
+    },
+
+
+    {
+      "iconoColor": "E32736",
+      "ubicacion": "PLATEA CORAZÓN ALTA",
+      "valorTicket": "49.000",
+      "cargoServicio": "7.350",
+      "precio": "56.350"
+    },
+
+
+    {
+      "iconoColor": "E69CC4",
+      "ubicacion": "PLATEA DIAMANTE BAJA",
+      "valorTicket": "95.000",
+      "cargoServicio": "14.250",
+      "precio": "109.250"
+    },
+
+
+    {
+      "iconoColor": "BE2F91",
+      "ubicacion": "PLATEA DIAMANTE ALTA",
+      "valorTicket": "49.000",
+      "cargoServicio": "7.350",
+      "precio": "56.350"
+    },
+
+
+    {
+      "iconoColor": "62B68C",
+      "ubicacion": "PLATEA JOCKER BAJA",
+      "valorTicket": "95.000",
+      "cargoServicio": "14.250",
+      "precio": "109.250"
+    },
+
+
+    {
+      "iconoColor": "298348",
+      "ubicacion": "PLATEA JOCKER ALTA",
+      "valorTicket": "49.000",
+      "cargoServicio": "7.350",
+      "precio": "56.350"
+    },
+
+    {
+      "iconoColor": "6A96CE",
+      "ubicacion": "PLATEA PICA BAJA",
+      "valorTicket": "95.000",
+      "cargoServicio": "14.250",
+      "precio": "109.250"
+    },
+
+    {
+      "iconoColor": "62B68C",
+      "ubicacion": "PLATEA PICA ALTA",
+      "valorTicket": "49.000",
+      "cargoServicio": "7.350",
+      "precio": "56.350"
+    },
+
+    {
+      "iconoColor": "5588BF",
+      "ubicacion": "PLATEA PICA BAJA V/P",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.250",
+      "precio": "86.250"
+    },
+
+    {
+      "iconoColor": "E261C0",
+      "ubicacion": "PLATEA PICA ALTA V/P",
+      "valorTicket": "39.000",
+      "cargoServicio": "5.850",
+      "precio": "44.850"
+    },
+
+    {
+      "iconoColor": "D6CAE3",
+      "ubicacion": "PLATEA TREBOL BAJA",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.25",
+      "precio": "86.250"
+    },
+
+    {
+      "iconoColor": "4E34AD",
+      "ubicacion": "PLATEA TREBOL ALTA",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.250",
+      "precio": "86.250"
+    },
+
+    {
+      "iconoColor": "AA96C8",
+      "ubicacion": "PLATEA TREBOL BAJA V/P",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.250",
+      "precio": "86.250"
+    },
+
+    {
+      "iconoColor": "282C7C",
+      "ubicacion": "PLATEA TREBOL ALTA V/P",
+      "valorTicket": "39.000",
+      "cargoServicio": "5.850",
+      "precio": "44.850"
+    }
+  ]
