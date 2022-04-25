@@ -10,7 +10,6 @@
     }
   },
   "Itemcarro":{
-    {
       "iconoColor":{
         "string": [
           "border-color:#744B9E",
@@ -18,7 +17,7 @@
           "border-color:#5588BF",
           "border-color:#4E34AD"
         ]
-
+      },
       "ubicacion": {
         "string": [
           "PRIMERAS FILAS",
@@ -26,27 +25,29 @@
           "PLATEA PICA BAJA V/P",
           "PLATEA TREBOL ALTA"
         ]
-
+      },
   
       "valorTicket": {
         "string":[
           "180.000","130.000","75.000","75.000"
         ]
+      },
       "cargoServicio": {
         "string":[
         "27.000","19.500","11.250","11.250"]
-        
+      },
         
       "precio": {
         "string":[
           "207.000","149.500","86.250","86.250"]
-        
+      },
       "nroEntrada":{
         "string":[
         "T157",
         "T156",
         "T158",
         "T159"]
+      },
       "tipo":{
         "string":["General"]
     }
