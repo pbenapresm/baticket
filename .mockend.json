@@ -53,8 +53,8 @@
     }
   },
   "Carro":{
-    "hasmany":{
-      "Itemcarro":{}
+    "items":{
+    "hasMany":"Itemcarro"
     }
   }
 }
