@@ -8,5 +8,44 @@
     "nombre": {
       "string": {}
     }
+  },
+  "Carrito":{
+    {
+      "iconoColor": "border-color:#744B9E",
+      "ubicacion": "PRIMERAS FILAS",
+      "valorTicket": "180.000",
+      "cargoServicio": "27.000",
+      "precio": "207.000",
+      "nroEntrada": "T157",
+      "tipo":"General"
+    },
+
+    {
+      "iconoColor": "border-color:#00D2FF",
+      "ubicacion": "PLATINUM",
+      "valorTicket": "130.000",
+      "cargoServicio": "19.500",
+      "precio": "149.500",
+      "nroEntrada": "T156",
+      "tipo":"General"
+    },
+    {
+      "iconoColor": "border-color:#5588BF",
+      "ubicacion": "PLATEA PICA BAJA V/P",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.250",
+      "precio": "86.250",
+      "nroEntrada": "T158",
+      "tipo":"General"
+    },
+    {
+      "iconoColor": "border-color:#4E34AD",
+      "ubicacion": "PLATEA TREBOL ALTA",
+      "valorTicket": "75.000",
+      "cargoServicio": "11.250",
+      "precio": "86.250",
+      "nroEntrada": "T159",
+      "tipo":"General"
+    }
   }
 }
