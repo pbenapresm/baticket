@@ -51,5 +51,10 @@
       "tipo":{
         "string":["General"]
     }
+  },
+  "Carro":{
+    "hasmany":{
+      "Itemcarro":{}
+    }
   }
 }
